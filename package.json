@@ -1,0 +1,16 @@
+{
+  "name": "travbot",
+  "version": "1.0.0",
+  "description": "Tool for browser game called Travian",
+  "main": "main.js",
+  "author": "Tim LE ROCH",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.10",
+    "nedb": "^1.8.0",
+    "request": "^2.87.0"
+  }
+}
